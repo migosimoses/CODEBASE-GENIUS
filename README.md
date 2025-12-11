@@ -40,10 +40,4 @@ Notes:
 - The Jac bridge calls the FastAPI `/process` endpoint; this is simple and robust for demo purposes.
 - To convert to a fully Jac-native pipeline, the Jac agent files need further implementation (they currently contain minimal, buildable stubs).
 
-Next steps I can take for you:
-- Implement fuller Jac agents incrementally and test with `jac build`/`jac serve`.
-- Add integration tests and a CI workflow.
-- Polish UI/UX and capture Jac run logs in the UI (already added).
 
-Tell me which next step to prioritize and I will proceed.
->>>>>>> 0d6c3a7 (Initial Codebase Genius snapshot — cleaned Jac files and placeholders)
