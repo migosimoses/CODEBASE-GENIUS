@@ -36,8 +36,7 @@ Files of interest:
 - `agentic_codebase_genius/*.jac` — Jac stubs and bridge
 - `web/` — UI templates and static assets
 
-Notes:
-- The Jac bridge calls the FastAPI `/process` endpoint; this is simple and robust for demo purposes.
-- To convert to a fully Jac-native pipeline, the Jac agent files need further implementation (they currently contain minimal, buildable stubs).
+
+
 
 
